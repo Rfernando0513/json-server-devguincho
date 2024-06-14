@@ -4,11 +4,7 @@
     "main": "server.js",
     "devDependencies": {},
     "scripts": {
-<<<<<<< HEAD
-        "start": "npx  json-server --watch db.json --port 5000"
-=======
-        "start": "node server.js"
->>>>>>> d9bf714a3b0764e622e82f4f93f8e4c0fb2cbe3b
+        "start": "npx json-server --watch db.json --port 3000"
     },
     "dependencies": {
         "json-server": "^0.17.4"
